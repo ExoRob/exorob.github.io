@@ -405,7 +405,7 @@
 
 		select option {
 			color: #313f47;
-			background: rgba(255, 255, 255, 0.5);
+			background: rgba(255, 255, 255, 0.9);
 		}
 
 		select:focus::-ms-value {
@@ -775,7 +775,7 @@
 				}
 
 				ul.icons li a:before {
-					color: rgba(255, 255, 255, 0.5);
+					color: rgba(255, 255, 255, 0.9);
 					text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
 				}
 
@@ -934,7 +934,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em rgba(255, 255, 255, 0.5);
+				box-shadow: 0 0 0 1.5em rgba(255, 255, 255, 0.);
 			}
 
 			#main .avatar:before {
